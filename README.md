@@ -1,1 +1,1 @@
-# Sample
+# Python Project for Data Science
